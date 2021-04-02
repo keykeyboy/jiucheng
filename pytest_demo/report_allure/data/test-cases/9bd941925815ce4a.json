@@ -1,0 +1,72 @@
+{
+  "uid" : "9bd941925815ce4a",
+  "name" : "获取token值",
+  "fullName" : "test_demo.Test#test_demo03",
+  "historyId" : "92dd78300cd62b647ad852cd85efde49",
+  "time" : {
+    "start" : 1617331151603,
+    "stop" : 1617331151603,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test",
+    "time" : {
+      "start" : 1617331151478,
+      "stop" : 1617331151603,
+      "duration" : 125
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "我的登录"
+  }, {
+    "name" : "feature",
+    "value" : "某网站的第一个测试用例"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ILIMIEIP"
+  }, {
+    "name" : "thread",
+    "value" : "5788-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9bd941925815ce4a.json",
+  "parameterValues" : [ ]
+}

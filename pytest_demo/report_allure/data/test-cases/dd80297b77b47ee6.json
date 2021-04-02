@@ -1,0 +1,51 @@
+{
+  "uid" : "dd80297b77b47ee6",
+  "name" : "test_demo02",
+  "fullName" : "test_demo.Test#test_demo02",
+  "historyId" : "71b3a417b9322f7e5d44f58be6aff86f",
+  "time" : {
+    "start" : 1617288900650,
+    "stop" : 1617288900651,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ILIMIEIP"
+  }, {
+    "name" : "thread",
+    "value" : "15868-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dd80297b77b47ee6.json",
+  "parameterValues" : [ ]
+}

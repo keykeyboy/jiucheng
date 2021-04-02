@@ -1,0 +1,60 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "某某网站的第二个测试用例",
+    "children" : [ {
+      "name" : "我的购物",
+      "children" : [ {
+        "name" : "购物情况结果",
+        "uid" : "a58d858ad6480327",
+        "parentUid" : "ce8d974e991d80bc2cb881122884448c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331706678,
+          "stop" : 1617331706678,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ce8d974e991d80bc2cb881122884448c"
+    } ],
+    "uid" : "dddfd9cdb67537ec0bd67324943293c9"
+  }, {
+    "name" : "某网站的第一个测试用例",
+    "children" : [ {
+      "name" : "我的登录",
+      "children" : [ {
+        "name" : "登录情况的结果",
+        "uid" : "ad76d4e9c1b3bce0",
+        "parentUid" : "a2bf8788c1f4990561da3a1f2192a477",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617331706678,
+          "stop" : 1617331706678,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取token值",
+        "uid" : "4b56766b77901016",
+        "parentUid" : "a2bf8788c1f4990561da3a1f2192a477",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331706850,
+          "stop" : 1617331706850,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a2bf8788c1f4990561da3a1f2192a477"
+    } ],
+    "uid" : "cf7b811cd96b90b02b66bb32d2d47f30"
+  } ]
+}

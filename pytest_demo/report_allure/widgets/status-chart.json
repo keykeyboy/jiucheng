@@ -1,0 +1,31 @@
+[ {
+  "uid" : "4b56766b77901016",
+  "name" : "获取token值",
+  "time" : {
+    "start" : 1617331706850,
+    "stop" : 1617331706850,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a58d858ad6480327",
+  "name" : "购物情况结果",
+  "time" : {
+    "start" : 1617331706678,
+    "stop" : 1617331706678,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad76d4e9c1b3bce0",
+  "name" : "登录情况的结果",
+  "time" : {
+    "start" : 1617331706678,
+    "stop" : 1617331706678,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,309 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-ILIMIEIP",
+    "children" : [ {
+      "name" : "28260-MainThread",
+      "children" : [ {
+        "name" : "test_demo01",
+        "uid" : "3ff8c1b899d009eb",
+        "parentUid" : "f3c54c0c8f45a318c46bab4eb1eb5d9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617288337398,
+          "stop" : 1617288337398,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_demo02",
+        "uid" : "4a9042caba61387e",
+        "parentUid" : "f3c54c0c8f45a318c46bab4eb1eb5d9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617288337400,
+          "stop" : 1617288337401,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3c54c0c8f45a318c46bab4eb1eb5d9a"
+    }, {
+      "name" : "13080-MainThread",
+      "children" : [ {
+        "name" : "购物情况结果",
+        "uid" : "b98dc617844b90a8",
+        "parentUid" : "9c12075b548f3a03492cd1d4018f39fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617290231998,
+          "stop" : 1617290231998,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录情况的结果",
+        "uid" : "51095798810a7db7",
+        "parentUid" : "9c12075b548f3a03492cd1d4018f39fe",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617290231953,
+          "stop" : 1617290231955,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c12075b548f3a03492cd1d4018f39fe"
+    }, {
+      "name" : "15868-MainThread",
+      "children" : [ {
+        "name" : "test_demo01",
+        "uid" : "d90fbdee8b57e5b2",
+        "parentUid" : "a612fd16485a531faba0200831b143ad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617288900647,
+          "stop" : 1617288900647,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_demo02",
+        "uid" : "dd80297b77b47ee6",
+        "parentUid" : "a612fd16485a531faba0200831b143ad",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617288900650,
+          "stop" : 1617288900651,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a612fd16485a531faba0200831b143ad"
+    }, {
+      "name" : "15748-MainThread",
+      "children" : [ {
+        "name" : "登录情况的结果",
+        "uid" : "583fa96fd300e00a",
+        "parentUid" : "da9941f231e03f083dd59a5f25a68a0d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617290079419,
+          "stop" : 1617290079420,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "购物情况结果",
+        "uid" : "6028796f5bb9cba7",
+        "parentUid" : "da9941f231e03f083dd59a5f25a68a0d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617290079459,
+          "stop" : 1617290079459,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "da9941f231e03f083dd59a5f25a68a0d"
+    }, {
+      "name" : "15108-MainThread",
+      "children" : [ {
+        "name" : "获取token值",
+        "uid" : "4b56766b77901016",
+        "parentUid" : "2fc678a0472c915ad5b232c6cc2a2c86",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331706850,
+          "stop" : 1617331706850,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录情况的结果",
+        "uid" : "ad76d4e9c1b3bce0",
+        "parentUid" : "2fc678a0472c915ad5b232c6cc2a2c86",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617331706678,
+          "stop" : 1617331706678,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2fc678a0472c915ad5b232c6cc2a2c86"
+    }, {
+      "name" : "10784-MainThread",
+      "children" : [ {
+        "name" : "购物情况结果",
+        "uid" : "6d7fd976417e9f66",
+        "parentUid" : "8f35b4801175b6b6248498a7b27458a0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331279711,
+          "stop" : 1617331279711,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录情况的结果",
+        "uid" : "7f14245598258645",
+        "parentUid" : "8f35b4801175b6b6248498a7b27458a0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617331279649,
+          "stop" : 1617331279649,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "获取token值",
+        "uid" : "22c06c4ef69f8c0",
+        "parentUid" : "8f35b4801175b6b6248498a7b27458a0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331279805,
+          "stop" : 1617331279805,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8f35b4801175b6b6248498a7b27458a0"
+    }, {
+      "name" : "5788-MainThread",
+      "children" : [ {
+        "name" : "获取token值",
+        "uid" : "9bd941925815ce4a",
+        "parentUid" : "e412aaa83a0700b98ec6a1c7001b888e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331151603,
+          "stop" : 1617331151603,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录情况的结果",
+        "uid" : "f5a101fe9650c237",
+        "parentUid" : "e412aaa83a0700b98ec6a1c7001b888e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1617331151415,
+          "stop" : 1617331151415,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "购物情况结果",
+        "uid" : "41168998b041a36a",
+        "parentUid" : "e412aaa83a0700b98ec6a1c7001b888e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331151478,
+          "stop" : 1617331151478,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e412aaa83a0700b98ec6a1c7001b888e"
+    }, {
+      "name" : "21228-MainThread",
+      "children" : [ {
+        "name" : "获取token值",
+        "uid" : "bf568d4c88576c37",
+        "parentUid" : "22d3ce18f237208dc1de53497da2a319",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331706772,
+          "stop" : 1617331706772,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "22d3ce18f237208dc1de53497da2a319"
+    }, {
+      "name" : "28620-MainThread",
+      "children" : [ {
+        "name" : "购物情况结果",
+        "uid" : "7684dd7a58e881be",
+        "parentUid" : "a42ab26c1f74e272b0354d40f4ad41e5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617289962441,
+          "stop" : 1617289962442,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "登录情况的结果",
+        "uid" : "a8fc03faa28f525",
+        "parentUid" : "a42ab26c1f74e272b0354d40f4ad41e5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1617289962326,
+          "stop" : 1617289962340,
+          "duration" : 14
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a42ab26c1f74e272b0354d40f4ad41e5"
+    }, {
+      "name" : "25720-MainThread",
+      "children" : [ {
+        "name" : "购物情况结果",
+        "uid" : "a58d858ad6480327",
+        "parentUid" : "c988221851372bd9fee78f1551f82d9a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617331706678,
+          "stop" : 1617331706678,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c988221851372bd9fee78f1551f82d9a"
+    } ],
+    "uid" : "526baf67a62149ec803707423d5ab613"
+  } ]
+}

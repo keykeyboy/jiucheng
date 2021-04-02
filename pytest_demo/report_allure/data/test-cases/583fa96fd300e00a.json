@@ -1,0 +1,97 @@
+{
+  "uid" : "583fa96fd300e00a",
+  "name" : "登录情况的结果",
+  "fullName" : "test_demo.Test#test_demo01",
+  "historyId" : "e20f46de7901f5f9648f2b9228c33b9f",
+  "time" : {
+    "start" : 1617290079419,
+    "stop" : 1617290079420,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 1 == 2",
+  "statusTrace" : "self = <pytest_demo.test_demo.Test object at 0x03AE6F50>\n\n    @allure.feature('某网站的第一个测试用例')\n    @allure.story('我的登录')\n    @allure.title('登录情况的结果')\n    @pytest.mark.testlogin\n    def test_demo01(self):\n        with allure.step('我的登录步骤'):\n            with open('./img/1.jpg','rb') as f:\n                img = f.read()\n                allure.attach(img,'景甜的自拍照')\n>           assert 1==2\nE           assert 1 == 2\n\ntest_demo.py:20: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 1 == 2",
+    "statusTrace" : "self = <pytest_demo.test_demo.Test object at 0x03AE6F50>\n\n    @allure.feature('某网站的第一个测试用例')\n    @allure.story('我的登录')\n    @allure.title('登录情况的结果')\n    @pytest.mark.testlogin\n    def test_demo01(self):\n        with allure.step('我的登录步骤'):\n            with open('./img/1.jpg','rb') as f:\n                img = f.read()\n                allure.attach(img,'景甜的自拍照')\n>           assert 1==2\nE           assert 1 == 2\n\ntest_demo.py:20: AssertionError",
+    "steps" : [ {
+      "name" : "我的登录步骤",
+      "time" : {
+        "start" : 1617290079419,
+        "stop" : 1617290079420,
+        "duration" : 1
+      },
+      "status" : "failed",
+      "statusMessage" : "AssertionError: assert 1 == 2\n",
+      "statusTrace" : "  File \"D:\\PythonProject\\auto_test\\pytest_demo\\test_demo.py\", line 20, in test_demo01\n    assert 1==2\n",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "28a9da17164c4753",
+        "name" : "景甜的自拍照",
+        "source" : "28a9da17164c4753.attach",
+        "type" : "image/jpeg",
+        "size" : 180286
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "我的登录"
+  }, {
+    "name" : "feature",
+    "value" : "某网站的第一个测试用例"
+  }, {
+    "name" : "tag",
+    "value" : "testlogin"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ILIMIEIP"
+  }, {
+    "name" : "thread",
+    "value" : "15748-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "testlogin" ]
+  },
+  "source" : "583fa96fd300e00a.json",
+  "parameterValues" : [ ]
+}

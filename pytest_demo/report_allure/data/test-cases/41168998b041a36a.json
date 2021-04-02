@@ -1,0 +1,60 @@
+{
+  "uid" : "41168998b041a36a",
+  "name" : "购物情况结果",
+  "fullName" : "test_demo.Test#test_demo02",
+  "historyId" : "71b3a417b9322f7e5d44f58be6aff86f",
+  "time" : {
+    "start" : 1617331151478,
+    "stop" : 1617331151478,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "我的购物"
+  }, {
+    "name" : "feature",
+    "value" : "某某网站的第二个测试用例"
+  }, {
+    "name" : "tag",
+    "value" : "testbuy"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-ILIMIEIP"
+  }, {
+    "name" : "thread",
+    "value" : "5788-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "testbuy" ]
+  },
+  "source" : "41168998b041a36a.json",
+  "parameterValues" : [ ]
+}
