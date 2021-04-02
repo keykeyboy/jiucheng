@@ -49,7 +49,8 @@ class TestDmo03:
 
     def test_demo01(self):
         print('test_01')
+        assert 1==3
 
 
 if __name__ == '__main__':
-    pytest.main(['-s', 'test_demo03.py', '-q'])
+    pytest.main(['-s', 'test_demo03.py', '--reruns=3','-q'])
